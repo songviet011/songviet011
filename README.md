@@ -89,13 +89,8 @@
   <img width="70%" src="https://github-readme-streak-stats-eight.vercel.app?user=songviet011&theme=tokyonight&hide_border=true&locale=vi" alt="GitHub Streak"/>
 </a>
 
-<br/>
 
-<a href="https://github.com/songviet011">
-  <img src="https://github-profile-trophy.vercel.app/?username=songviet011&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies"/>
-</a>
 
-<br/>
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=songviet011&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
 
