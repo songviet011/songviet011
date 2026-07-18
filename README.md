@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 <!-- Animated Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:BF5FFF&height=200&section=header&text=Mai%20Song%20Vi%E1%BB%87t&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-stack%20Developer%20%7C%20AI%20Automation%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
@@ -76,20 +76,28 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=songviet011&show_icons=true&theme=tokyonight&hide_border=true&locale=vi&count_private=true&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=songviet011&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<a href="https://github.com/songviet011">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=songviet011&show_icons=true&theme=tokyonight&hide_border=true&locale=vi&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+</a>
+<a href="https://github.com/songviet011">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=songviet011&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+</a>
 
 <br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=songviet011&theme=tokyonight&hide_border=true&locale=vi"/>
+<a href="https://github.com/songviet011">
+  <img width="70%" src="https://github-readme-streak-stats-eight.vercel.app?user=songviet011&theme=tokyonight&hide_border=true&locale=vi" alt="GitHub Streak"/>
+</a>
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=songviet011&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6"/>
+<a href="https://github.com/songviet011">
+  <img src="https://github-profile-trophy.vercel.app/?username=songviet011&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies"/>
+</a>
 
 <br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=songviet011&theme=tokyo-night&hide_border=true&area=true"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=songviet011&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
 
 </div>
 
